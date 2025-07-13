@@ -7,6 +7,7 @@ import SubmitPage from './Pages/SubmitArticle';
 import AboutPage from './Pages/AboutPage';
 import ContactPage from './Pages/ContactPage';
 import NewsletterPage from './Pages/NewsLetterPage';
+import Ghostwriting from './Pages/Ghostwiting';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Route path='/articles/:id' element={<ArticleDetailPage />} />
       <Route path='/contact' element={<ContactPage />} />
       <Route path='/subscribe' element={<NewsletterPage />} />
+      <Route path='/ghostwriting' element={<Ghostwriting />}/>
     </Routes>
   )
 }
