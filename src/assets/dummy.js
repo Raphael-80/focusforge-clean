@@ -1,16 +1,11 @@
-import { useParams, Link } from "react-router-dom";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-
 const dummyArticles = [
-    {
-        id: "1",
-        title: "Benefits of Early Rising",
-        image: "/sleep_img.jpg",
-        date: "6 Jul, 2025",
-        author: "Focus Forge",
-        category: "Productivity",
-        content: `Have you ever wondered why mornings can be so challenging? Instead of feeling refreshed, you wake up tired and stressed, setting a negative tone for the day. The secret to a successful day lies in adopting an early-to-bed, early-to-rise routine, as the famous quote goes: "Early to bed and early to rise, makes a man healthy, wealthy, and wise." This timeless wisdom emphasizes the importance of getting enough rest and waking up early to make the most of your day.
+  {
+    id: 1,
+    title: "Benefits of Early Rising",
+    author: "Focus Forge",
+    category: "Productivity",
+    image: "/images/early-rising.jpg", // Replace with your real image or use a placeholder
+    content: `Have you ever wondered why mornings can be so challenging? Instead of feeling refreshed, you wake up tired and stressed, setting a negative tone for the day. The secret to a successful day lies in adopting an early-to-bed, early-to-rise routine, as the famous quote goes: "Early to bed and early to rise, makes a man healthy, wealthy, and wise." This timeless wisdom emphasizes the importance of getting enough rest and waking up early to make the most of your day.
 
 Top 6 Benefits of Early Rising
 
@@ -28,16 +23,15 @@ Tips for Mastering the Art of Early Rising
 3. Avoid Late-Night Eating: Finish dinner by 8:00 PM to allow for proper digestion and a restful night's sleep.
 
 In conclusion, embracing the habit of early rising can be a game-changer for your life. By incorporating this simple yet powerful routine, you'll unlock a world of benefits that will propel you towards success. As the day breaks, so does the opportunity for a fresh start, a new chance to seize your goals, and to rise above the ordinary. Rising up early is one of the crucial yet underrated habits to build in order to be successful in life - so why not start tomorrow, or even today?`
+  },
 
-    },
-    {
-        id: "2",
-        title: "The Transformative Power of Silence: A Game-Changer in Conflict and Relationships",
-        image: "/silence.jpg",
-        date: "05 Jul, 2025",
-        author: "Focus Forge",
-        category: "Mindset",
-        content: `In a world saturated with noise, silence is often misunderstood as weakness, avoidance, or emotional detachment. Yet, in the realm of human relationships and conflicts, silence holds immense transformative power. When used wisely, silence can be a game-changer in both personal and professional interactions.
+  {
+    id: 2,
+    title: "The Transformative Power of Silence: A Game-Changer in Conflict and Relationships",
+    author: "Focus Forge",
+    category: "Emotional Intelligence",
+    image: "/images/silence-power.jpg",
+    content: `In a world saturated with noise, silence is often misunderstood as weakness, avoidance, or emotional detachment. Yet, in the realm of human relationships and conflicts, silence holds immense transformative power. When used wisely, silence can be a game-changer in both personal and professional interactions.
 
 A Personal Experience
 
@@ -69,15 +63,15 @@ Constructive Uses of Silence
 In Conclusion
 
 Silence is not the absence of communication—it is a powerful form of it. In conflict, it de-escalates. In relationships, it deepens connection. In moments of tension, it brings clarity. When used wisely, silence speaks louder than words. It is not a sign of weakness, but of strength, self-control, and wisdom. As the saying goes, “Speak only if it improves upon the silence.” Sometimes, saying nothing is the most powerful thing we can say.`
-    },
-    {
-        id: "3",
-        title: "Unlocking Unshakable Confidence.",
-        author: "Focus Forge",
-        category: "Mindset",
-        image: "/believe.jpg",
-        date: "06 Jul, 2025",
-        content: `Do you remember the last time you walked into a room, and everyone noticed you? Not because you were trying to stand out, but because you exuded a sense of confidence and self-assurance. Confidence is not just a trait; it's a superpower that can transform your life. Imagine having the courage to pursue your dreams, speak your mind, and live life on your own terms.
+  },
+
+  {
+    id: 3,
+    title: "Unlocking Unshakeable Confidence",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/images/unshakeable-confidence.jpg",
+    content: `Do you remember the last time you walked into a room, and everyone noticed you? Not because you were trying to stand out, but because you exuded a sense of confidence and self-assurance. Confidence is not just a trait; it's a superpower that can transform your life. Imagine having the courage to pursue your dreams, speak your mind, and live life on your own terms.
 
 The Power Within
 
@@ -98,67 +92,7 @@ Confidence isn't born; it's built. It's the foundation of living a full, courage
 6. Stepping Out of Your Comfort Zone: This is a menace with 85% of the youths today. The comfort zone is the coziest but most dangerous place to be as it ruins your potential leaving you with regrets and self-pity. Get up in the morning, do your routine, go for seminars, connect with people, learn new skills (you won't be confident when you're incompetent), listen to podcasts, practice public speaking at home, church or any familiar social gathering, start small, remember “a thousand miles begins with a step” no one is coming to save you, you can only save yourself 🙂.
 
 Unlock Your Potential`
-    },
+  },
 ];
 
-const ArticleDetailPage = () => {
-    const { id } = useParams();
-    const article = dummyArticles.find((item) => item.id === id);
-
-    if (!article) {
-        return (
-            <div className="pt-24 text-center text-red-600">
-                <h1>Article not found.</h1>
-            </div>
-        );
-    }
-
-    return (
-        <>
-            <Navbar solid />
-            <main className="pt-24 px-4 max-w-3xl mx-auto">
-                <h1 className="text-4xl font-bold mb-4">{article.title}</h1>
-                <p className="text-gray-500 text-sm mb-2">
-                    By {article.author} • {article.date}
-                </p>
-                <img
-                    src={article.image}
-                    alt={article.title}
-                    className="w-full h-100 object-cover rounded-md mb-6"
-                />
-                <p className="text-lg leading-8 text-gray-800 whitespace-pre-line">
-                    {article.content}
-                </p>
-            </main>
-
-            {/* Related Articles */}
-            <section className="mt-16">
-                <h2 className="text-2xl font-semibold mb-4">Related Articles</h2>
-                <div className="flex space-x-4 overflow-x-auto pb-4 scrollbar-hide">
-                    {dummyArticles
-                        .filter(
-                            (item) =>
-                                item.category === article.category && item.id !== article.id
-                        )
-                        .map((related) => (
-                            <Link
-                                key={related.id}
-                                to={`/articles/${related.id}`}
-                                className="min-w-[280px] bg-white shadow rounded-md p-4 shrink-0 hover:shadow-lg transition"
-                            >
-                                <h3 className="text-lg font-bold mb-2">{related.title}</h3>
-                                <p className="text-sm text-gray-500 mb-1">{related.author} • {related.date}</p>
-                                <p className="text-sm text-gray-700 line-clamp-2">{related.content}</p>
-                                <span className="text-red-600 text-sm font-medium inline-block mt-2">Read more →</span>
-                            </Link>
-                        ))}
-                </div>
-            </section>
-
-
-            <Footer />
-        </>
-    );
-};
-
-export default ArticleDetailPage;
+export default dummyArticles;

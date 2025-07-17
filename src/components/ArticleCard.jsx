@@ -10,7 +10,6 @@ const ArticleCard = ({ article }) => {
           <p className="text-sm text-gray-500 mb-2">
             {article.date} • {article.author}
           </p>
-          <p className="text-gray-700 text-sm line-clamp-3">{article.excerpt}</p>
         </div>
       </div>
     </Link>
