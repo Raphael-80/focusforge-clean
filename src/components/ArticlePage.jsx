@@ -95,6 +95,46 @@ Confidence isn't born; it's built. It's the foundation of living a full, courage
 
 Unlock Your Potential`
   },
+      {
+        id: 4,
+        title: "The Multifaceted Self: On Masking Personality",
+        author: "Focus Forge",
+        category: "Self-awareness",
+        image: "/mask.jpg",
+        date: "19 Jul, 2025",
+        content: `
+Have you ever met someone who seems perfect but then you find out they're struggling with their own demons? Or maybe you've felt like you're wearing a mask to hide your true self from the world? You're not alone. We all wear masks, whether it's to fit in, impress others, or protect ourselves. Sometimes these masks can lead to misunderstandings, conflicts, and difficulty in relationships.
+
+But did you know there's a way to tame the demons inside and unlock your true potential? By understanding the 16 personalities, you can live a more authentic life, improve relationships, and enhance communication.
+
+According to the Myers-Briggs Type Indicator, there are 16 personalities:
+
+1. ISTJ (Introverted, Sensing, Thinking, Judging) - Inspector  
+2. ISFJ (Introverted, Sensing, Feeling, Judging) - Protector  
+3. INFJ (Introverted, Intuitive, Feeling, Judging) - Counselor  
+4. INTJ (Introverted, Intuitive, Thinking, Judging) - Mastermind  
+5. ISTP (Introverted, Sensing, Thinking, Perceiving) - Craftsman  
+6. ISFP (Introverted, Sensing, Feeling, Perceiving) - Composer  
+7. INFP (Introverted, Intuitive, Feeling, Perceiving) - Healer  
+8. INTP (Introverted, Intuitive, Thinking, Perceiving) - Architect  
+9. ESTP (Extraverted, Sensing, Thinking, Perceiving) - Dynamo  
+10. ESFP (Extraverted, Sensing, Feeling, Perceiving) - Performer  
+11. ENFP (Extraverted, Intuitive, Feeling, Perceiving) - Champion  
+12. ENTP (Extraverted, Intuitive, Thinking, Perceiving) - Visionary  
+13. ESTJ (Extraverted, Sensing, Thinking, Judging) - Supervisor  
+14. ESFJ (Extraverted, Sensing, Feeling, Judging) - Provider  
+15. ENFJ (Extraverted, Intuitive, Feeling, Judging) - Teacher  
+16. ENTJ (Extraverted, Intuitive, Thinking, Judging) - Commander
+
+As we explore these personalities, we uncover their traits, strengths, and weaknesses. By understanding these personalities, you'll discover which one resonates with you. Life can be stressful, but there are ways to manage it. By embracing your qualities and finding healthy coping mechanisms, you can unlock your full potential and live a more authentic life.
+
+Join us on this journey of self-discovery and uncover the hidden truths about yourself and others.
+
+What's Next?  
+Stay tuned for our next article, where we'll be unlocking the characteristics of each personality type. You'll get to know what makes each type unique, from their strengths and weaknesses to their career paths and relationships.
+
+P.S. Matchmaking also involves personality checks! Don't miss out! Subscribe to our website to get the latest articles and insights delivered straight to your inbox.`
+    }
 ];
 
 const ArticlePage = () => {

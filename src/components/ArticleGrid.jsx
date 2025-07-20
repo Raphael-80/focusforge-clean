@@ -26,6 +26,14 @@ const dummyArticles = [
     category: "Self Development",
     image: "/believe.jpg",
     date: "06 Jul, 2025",
+  },
+  {
+    id: 4,
+    title: "The Multifaceted Self: On Masking Personality",
+    author: "Focus Forge",
+    category: "Self-awareness",
+    image: "/mask.jpg",
+    date: "19 Jul, 2025",
   }
 ]
 
