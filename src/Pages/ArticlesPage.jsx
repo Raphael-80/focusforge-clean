@@ -97,14 +97,14 @@ Confidence isn't born; it's built. It's the foundation of living a full, courage
 
 Unlock Your Potential`
   },
-      {
-        id: 4,
-        title: "The Multifaceted Self: On Masking Personality",
-        author: "Focus Forge",
-        category: "Self-awareness",
-        image: "/mask.jpg",
-        date: "19 Jul, 2025",
-        content: `
+  {
+    id: 4,
+    title: "The Multifaceted Self: On Masking Personality",
+    author: "Focus Forge",
+    category: "Self-awareness",
+    image: "/mask.jpg",
+    date: "19 Jul, 2025",
+    content: `
 Have you ever met someone who seems perfect but then you find out they're struggling with their own demons? Or maybe you've felt like you're wearing a mask to hide your true self from the world? You're not alone. We all wear masks, whether it's to fit in, impress others, or protect ourselves. Sometimes these masks can lead to misunderstandings, conflicts, and difficulty in relationships.
 
 But did you know there's a way to tame the demons inside and unlock your true potential? By understanding the 16 personalities, you can live a more authentic life, improve relationships, and enhance communication.
@@ -136,24 +136,145 @@ What's Next?
 Stay tuned for our next article, where we'll be unlocking the characteristics of each personality type. You'll get to know what makes each type unique, from their strengths and weaknesses to their career paths and relationships.
 
 P.S. Matchmaking also involves personality checks! Don't miss out! Subscribe to our website to get the latest articles and insights delivered straight to your inbox.`
-    }
+  },
+  {
+    id: 5,
+    title: "The Power of Walking Away from Toxic Environments",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/toxic.jpg",
+    content: `As I sat down with my friend on a Saturday morning, I could sense the weight of her struggles. She had been feeling restless, stressed, and drained for weeks, and it was taking a toll on her mental and physical health. As she opened up to me about her relationship, I realized that she was trapped in a toxic environment that was sucking the life out of her.
+
+Her boyfriend's lack of emotional investment and constant criticism had left her feeling guilty, confused, and uncertain about her own worth. I knew I wasn't alone in witnessing this pattern, as many people struggle to recognize the signs of toxicity in their relationships, friendships, or even family dynamics.
+
+*Recognizing the Signs of Toxicity*
+
+So, how do you know you're in a toxic environment? Here are some red flags to watch out for:
+
+- You start to question your existence or worth.
+- You feel drained, exhausted, or depleted most of the time.
+- You're constantly confused about what's going on or what's expected of you.
+- You put in more energy and get less or nothing in return.
+- You feel miserable about yourself or your situation.
+
+*The Impact of Toxicity*
+
+Toxic environments can cause immense emotional pain and trauma, leading to depression, anxiety, and even physical symptoms. The longer you stay in such an environment, the more it can erode your self-esteem, confidence, and overall well-being.
+
+But here's the thing: you have the power to break free. My friend's story is a testament to the transformative power of walking away from a toxic environment. When she finally mustered the courage to leave her relationship, she bounced back ten times better than before. She looked more beautiful, mentally and physically, and radiated a newfound confidence.
+
+*What is Toxicity?*
+
+Toxicity refers to the extent to which anything can cause harm, whether physically, mentally, or psychologically. In the context of relationships or environments, toxicity can manifest in various ways, including manipulation, emotional abuse, or neglect.
+
+*The Long-Term Cost*
+
+There's a saying that "the longer you stay on the wrong train, the more it gets expensive to get down." This is particularly true for toxic environments. The longer you stay, the more it hurts to live, and the harder it becomes to escape. But it's not just about the cost; it's about the toll it takes on your mental and emotional health.
+
+*5 Steps to Walking Away from a Toxic Environment*
+
+If you're struggling to break free from a toxic environment, here are five steps to help you walk away without looking back:
+
+1. *Recognize the toxicity*: Acknowledge the harm the environment is causing and accept that it's not healthy for you.
+2. *Set boundaries*: Establish clear limits to protect yourself from further harm.
+3. *Seek support*: Surround yourself with positive, supportive people who care about your well-being.
+4. *Prioritize self-care*: Focus on nurturing your physical, emotional, and mental health.
+5. *Create an exit plan*: Develop a strategy to safely distance yourself from the toxic environment.
+
+*Conclusion*
+
+Walking away from a toxic environment is not a sign of weakness, but a testament to your strength and self-love. It's a declaration that you deserve better, that you value your well-being, and that you're willing to take control of your life. As you embark on this journey, remember that you're not just leaving behind a toxic environment, you're stepping into a brighter, more vibrant version of yourself. You're choosing to breathe fresh air, to feel the warmth of positivity, and to radiate confidence. So, take a deep breath, stand tall, and walk away. Your future self will thank you.`
+  },
+  {
+    id: 6,
+    title: "Who Truly Wins in Politics?",
+    author: "Focus Forge",
+    category: "Politics",
+    image: "/politics.jpg",
+    content: `
+Politics is often defined as the process of attaining and exercising power, often through campaigns and elections. But today, politics has evolved — or perhaps devolved — into something more complicated, more dangerous, and more personal.
+
+It's often described as a dirty game, not because the system itself is corrupt by nature, but because of how people choose to play it. It is said to favor the strong-minded, but in reality, it often favors the cunning, ruthless, and spiritually fortified.
+
+In today’s world, politics doesn’t just happen in parliaments or congress — it plays out in schools, churches, communities, social media, and even friendships. From student union elections to senior prefect campaigns, political strategy starts early. Whether it’s subtle manipulation, lobbying, or building alliances, the game starts before we even understand it.
+
+Does Politics Really Favor Everyone?
+
+The truth is: politics is not fair.
+Those who win are not always the smartest or most deserving. Many times, they are the best at manipulation — or the ones who are willing to sacrifice the most.
+
+In some societies, politics is no longer a service-driven mission. It has become a power race soaked in blood, betrayal, and greed. Some seek power to embezzle money, others crave fame, and a few — just a few — aim to serve genuinely.
+
+The Spiritual Side of Politics
+
+This is the part most people don’t talk about — the spiritual warfare behind politics. It’s not just about debates and campaigns. Many political aspirants seek spiritual fortification, not just for strength, but for protection, influence, and survival.
+
+Some go to traditionalists, others perform rituals, while a few connect to a higher power — God — through prayer and sacrifice.
+But make no mistake: every path demands something.
+
+If you choose to follow God, you may sacrifice time, money, ego, and comfort. You may be mocked, doubted, or eliminated — but your conscience stays clean.
+
+If you choose the dark path, you may sacrifice loved ones, your peace, or even your soul — and there’s no peace at the top if the price was blood.
+
+> "The spiritual controls the physical" — a truth many ignore until it’s too late.
+
+
+
+Psychological & Digital Warfare
+
+Politics today is not just spiritual — it’s psychological.
+Voters are influenced through fear, hope, propaganda, and misinformation. Social media has become a weapon: with fake news, digital scandals, and image laundering.
+
+A candidate without strong psychological grounding is easily broken. The truly victorious must be:
+
+Emotionally stable
+
+Mentally sharp
+
+Spiritually rooted
+
+Morally clear
+
+
+That's rare.
+
+Global Parallels
+
+Look at world leaders today — many started with passion, but ended in scandals. The system itself consumes the weak. In countries like Nigeria, Venezuela, or even parts of Europe and Asia, integrity in politics is often seen as a weakness.
+
+But there are exceptions — those rare leaders who rise, serve, and leave without blood on their hands. They are few — but they exist.
+
+So, Who Truly Wins?
+
+The answer depends on your definition of winning.
+If you mean getting power at any cost, then yes — many win.
+But if you mean gaining power without losing your soul, that's actually the best.
+Politics is not evil — it is a tool. The person holding it decides whether to use it as a hammer or a seed.
+
+To win in politics, you must first win in your mind, then in your spirit, and finally in your actions. Leadership is not just about strategy — it is about integrity, sacrifice, and service.
+
+So again we ask:
+
+> Who truly wins in politics?
+The one who enters with purpose, serves with courage, and exits with honor.`
+  }
 ];
 
 const ArticlesPage = () => {
-    return (
-        <>
-            <Navbar solid />
-            <section className="pt-24 px-4 max-w-6xl mx-auto">
-                <h1 className="text-3xl font-bold mb-8 text-center">All Articles</h1>
-                <div className="grid md:grid-cols-3 gap-6">
-                    {dummyArticles.map((article) => (
-                        <ArticleCard key={article.id} article={article} />
-                    ))}
-                </div>
-            </section>
-            <Footer />
-        </>
-    );
+  return (
+    <>
+      <Navbar solid />
+      <section className="pt-24 px-4 max-w-6xl mx-auto">
+        <h1 className="text-3xl font-bold mb-8 text-center">All Articles</h1>
+        <div className="grid md:grid-cols-3 gap-6">
+          {dummyArticles.map((article) => (
+            <ArticleCard key={article.id} article={article} />
+          ))}
+        </div>
+      </section>
+      <Footer />
+    </>
+  );
 };
 
 export default ArticlesPage

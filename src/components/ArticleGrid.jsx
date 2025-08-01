@@ -34,6 +34,22 @@ const dummyArticles = [
     category: "Self-awareness",
     image: "/mask.jpg",
     date: "19 Jul, 2025",
+  },
+  {
+    id: 5,
+    title: "The Power of Walking Away from Toxic Environments",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/toxic.jpg",
+    date: "25 Jul, 2025"
+  },
+  {
+    id: 6,
+    title: "Who Truly Wins in Politics?",
+    author: "Focus Forge",
+    category: "Politics",
+    image: "/politics.jpg",
+    date: "30 Jul, 2025"
   }
 ]
 

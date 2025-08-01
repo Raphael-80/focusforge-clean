@@ -28,13 +28,13 @@ const Footer = () => {
                 <div>
                     <h4 className="text-lg font-semibold mb-3">Follow Us</h4>
                     <div className="flex items-center space-x-4">
-                        <a href="#" target="_blank" rel="noreferrer">
+                        <a href="https://www.instagram.com/3056francisca/?utm_source=ig_web_button_share_sheet" target="" rel="noreferrer">
                             <img src="/Instagram.jpg" alt="Instagram" className="w-8 h-8 hover:scale-110 rounded transition-transform" />
                         </a>
                         <a href="#" target="_blank" rel="noreferrer">
                             <img src="/facebook.jpg" alt="Facebook" className="w-8 h-8 hover:scale-110 rounded transition-transform" />
                         </a>
-                        <a href="#" target="_blank" rel="noreferrer">
+                        <a href="https://www.tiktok.com/@joan.chi6?is_from_webapp=1&sender_device=pc" target="_blank" rel="noreferrer">
                             <img src="/tiktok.jpg" alt="Tiktok" className="w-8 h-8 hover:scale-110 rounded transition-transform" />
                         </a>
                         <a href="#" target="_blank" rel="noreferrer">
