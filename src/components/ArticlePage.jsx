@@ -256,6 +256,293 @@ So again we ask:
 
 > Who truly wins in politics?
 The one who enters with purpose, serves with courage, and exits with honor.`
+  },
+  {
+    id: 7,
+    title: "The multifaceted self (unmasking personality 2)",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/mask.jpg",
+    content: `In our previous article on the multifaceted self, the 16 personalities of Myers Briggs type indicator were listed and we were sure anticipating to unlock the characteristics of each personality type🙂‍↔.
+
+We will be looking at the characteristics of these 16 personalities. Dear gentle reader, study them and know which suits you or even a friend or loved one and learn to make better decisions and handle situations smartly😊.
+
+🧠 THE ANALYSTS (Strategic, Logical, Independent)
+
+1. INTJ – The Architect 
+
+Traits: Deep thinker, planner, perfectionist.
+
+Behavior: Prefers to work alone, future-focused, often seen as quiet but very sharp.
+
+Weakness: Can be overly critical or stubborn.
+
+
+2. INTP – The Logician 
+
+Traits: Curious, analytical, loves ideas and theories.
+
+Behavior: Asks lots of “why” questions, gets lost in thought, might forget practical stuff.
+
+Weakness: May overthink or be emotionally distant.
+
+
+3. ENTJ – The Commander 
+
+Traits: Bold, leader, decision-maker.
+
+Behavior: Naturally takes charge, goal-oriented, doesn’t like delays or inefficiency.
+
+Weakness: Can be too bossy or controlling.
+
+
+4. ENTP – The Debater 
+
+Traits: Energetic, witty, loves arguments (not fights).
+
+Behavior: Challenge
+ ideas, loves brainstorming, easily bored with routine.
+
+Weakness: May struggle with follow-through.
+
+--- Next; 
+
+❤️ THE DIPLOMATS (Empathetic, Idealistic, Caring)
+
+5. INFJ – The Advocate
+* 
+Traits: Wise, intuitive, deep-feeling.
+
+Behavior: Seeks purpose, helps others quietly, reads people well.
+
+Weakness: Can burn out or feel misunderstood.
+
+
+6. INFP – The Mediator
+
+Traits: Dreamy, sensitive, creative.
+
+Behavior: Writes poetry, wants a meaningful life, avoids conflict.
+
+Weakness: Can be too idealistic or avoid reality.
+
+
+7. ENFJ – The Protagonist
+
+Traits: Charismatic, empathetic, supportive.
+
+Behavior: Leads with heart, motivates others, loves teamwork.
+
+Weakness: May people-please or neglect own needs.
+
+
+8. ENFP – The Campaigner
+
+Traits: Enthusiastic, imaginative, spontaneous.
+
+Behavior: Loves fun and adventure, easily makes friends, starts many things at once.
+
+Weakness: Gets distracted or disorganized.
+
+Next🌼;
+
+🛠️ THE SENTINELS (Reliable, Organized, Duty-Focused)
+
+9. ISTJ – The Logistician
+
+Traits: Practical, responsible, honest.
+
+Behavior: Follows rules, loves routine, dependable in crisis.
+
+Weakness: Can be too rigid or uncomfortable with change.
+
+
+10. ISFJ – The Defender 
+
+Traits: Loyal, nurturing, modest.
+
+Behavior: Cares deeply, quietly protects loved ones, remembers birthdays!
+
+Weakness: May not speak up for themselves.
+
+
+11. ESTJ – The Executive
+
+Traits: Traditional, orderly, manager-type.
+
+Behavior: Organizes things, likes structure, speaks confidently.
+
+Weakness: Can seem bossy or inflexible.
+
+
+12. ESFJ – The Consultant
+
+Traits: Social, warm, helper.
+
+Behavior: Loves harmony, organizes events, checks in on others.
+
+Weakness: May care too much about others’ opinions.
+
+
+Next>>>>🌚
+---
+
+🌍 THE EXPLORERS (Spontaneous, Fun, Action-Oriented)
+
+13. ISTP – The Virtuoso 
+
+Traits: Hands-on, silent doer, problem solver.
+
+Behavior: Good with tools, fixes stuff, loves independence.
+
+Weakness: Struggles with long-term planning.
+
+
+14. ISFP – The Adventurer
+
+
+
+Traits: Gentle, creative, private.
+
+Behavior: Expresses through art/fashion, avoids drama, values freedom.
+
+Weakness: Hard to understand emotionally, may avoid conflict.
+
+
+15. ESTP – The Entrepreneur
+
+Traits: Bold, energetic, straight-talker.
+
+Behavior: Life of the party, risk-taker, acts quickly.
+
+Weakness: May ignore consequences or get bored fast.
+
+
+16. ESFP – The Entertainer
+
+Traits: Fun, playful, talkative.
+
+Behavior: Always dancing, singing, making people laugh, hates being bored.
+
+Weakness: Avoids serious topics or responsibilities. 
+
+Going through these personalities we can be able to predict wat ppl can do hence allowing for better understanding and less conflicts.`
+  },
+  {
+    id: 8,
+    title: "Understanding Ghosting: Why It Happens",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/ghost2.jpg",
+    content: `
+Ghosting is when someone you’ve been talking to — maybe even getting close to — suddenly cuts off all communication without any explanation. No calls, no messages, no goodbyes. It can leave you confused, hurt, and full of unanswered questions.
+
+You may start to wonder, “Did I do something wrong?” “Wasn’t everything going well?” But in many cases, ghosting has more to do with the other person’s mindset than anything you did.
+
+Let’s break down why people ghost — and what it really means.
+
+✧⁠*⁠。
+
+1. Fear of Confrontation
+
+Some people don’t know how to handle uncomfortable conversations. Telling someone they’ve lost interest or want to move on feels awkward, so instead of being honest, they vanish. They think it’ll hurt less — but it usually causes more pain.
+
+✧⁠*⁠。
+
+2. Emotional Immaturity
+
+Ghosting is often a sign of emotional immaturity. Mature people can handle tough talks. Immature ones run from them. Disappearing is an easy way out when someone doesn’t know how to manage emotions or respect others' feelings.
+
+✧⁠*⁠。
+
+3. They Lost Interest But Don’t Know How to Say It
+
+Sometimes, people just lose interest. Maybe they met someone else, or their feelings faded. Instead of explaining, they ghost. It’s not fair, but it’s a common reason — especially if they were never that emotionally invested.
+
+✧⁠*⁠。
+
+4. The Connection Wasn’t That Deep (for Them)
+
+What felt meaningful to you might not have felt the same to them. If they didn’t see the bond as serious, they may not feel the need to explain their exit. That doesn’t excuse their silence, but it gives some insight.
+
+✧⁠*⁠。
+
+5. Manipulation or Control
+
+Some people use ghosting as a mind game. They want to keep you confused, make you chase them, or feel unsure about yourself. This is toxic behavior, and it’s more about control than connection.
+
+✧⁠*⁠。
+
+6. Avoiding Accountability
+
+When people know they’ve done something wrong — maybe they lied, cheated, or led you on — ghosting becomes an easy escape. They avoid facing your reaction or taking responsibility by simply disappearing
+
+✧⁠*
+
+7. They’re Going Through Personal Issues
+
+Sometimes, ghosting isn’t personal. The person might be struggling with mental health, stress, family problems, or personal trauma. Instead of opening up, they shut down — cutting off everyone around them, including you.
+✧⁠*⁠。
+
+In Conclusion
+
+Being ghosted doesn’t define your worth. You are not less important, less attractive, or less lovable because someone chose to walk away without a word. Their silence reflects their inability to handle things maturely — not your value as a person.
+
+So if you’ve been ghosted:
+
+Don’t chase after answers.
+
+Don’t take it personally.
+
+Don’t question your self-worth.
+
+
+You deserve communication, honesty, and respect.
+Inorder to appear even more valuable learn to ignore act like u didn't know you were ghosted.
+ The right people will show up with clarity, not confusion.`
+  },
+  {
+    id: 9,
+    title: "Integrity",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/integrity.jpg",
+    content: `
+In a world filled with dishonesty and corruption, integrity is a rare yet priceless virtue.
+Integrity is the quality of being honest and firm in one’s moral principles.
+
+Many people today lack integrity and even boast about dishonesty and corruption. In our society, corruption has been normalized and celebrated. Everyone brags about taking and giving bribes. They boast about not returning what belongs to others. They even brag about doing the wrong thing, and this has become a menace. That is why the country remains stunted in growth, and the people continue to suffer.
+
+I was taking a ride to school one beautiful Monday morning when I noticed police officers stationed at various checkpoints. As we approached each one, I observed an old, rickety vehicle ahead, polluting the air with carbon dioxide. When the driver reached the checkpoint, I expected the police to question him about the dangerous smoke coming from the exhaust pipe. But instead of enforcing the law, the policeman simply put his hand through the window and asked for a 100 naira note. The driver handed it over, and immediately, he was waved on to continue polluting the environment.
+
+I was dumbfounded because this is exactly what bribery and corruption have caused in our world today. The policeman cared more about collecting a small bribe than about the damage to people’s health and the environment. If men of integrity stood at that checkpoint, the pollution would have been stopped.
+
+How does integrity pay?
+
+Being honest and morally upright gives you a high reputation. As the saying goes, a good name is better than riches. Not only does integrity earn respect, but it can also bring wealth. Many successful men and women prefer to do business and sign contracts with people they can trust. Having integrity will open doors of opportunity that dishonesty will never unlock.
+
+Today, especially in Africa, it is hard to find people with integrity. Yet, those who have it can build legacies that last generations.
+
+Our past leaders
+
+1. Dr. Nnamdi Azikiwe
+
+
+2. Tafawa Balewa
+
+
+3. Obafemi Awolowo
+
+
+4. Ahmadu Bello
+
+
+
+These were men of integrity whose legacies still speak for them today. Their honesty and dedication to the nation have left an example for us to follow. Their portraits are proudly displayed on the naira notes as a reminder that integrity outlives any material wealth.
+
+Conclusion
+
+Integrity is the foundation of a strong character and a thriving society. No matter how common dishonesty becomes, let us choose to be people who stand by the truth. A life built on integrity will always shine brighter than the false glow of corruption. When you hold firmly to your values, you are not only enriching your own life but also inspiring generations to come.`
   }
 ];
 

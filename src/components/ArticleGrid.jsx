@@ -50,6 +50,30 @@ const dummyArticles = [
     category: "Politics",
     image: "/politics.jpg",
     date: "30 Jul, 2025"
+  },
+  {
+    id: 7,
+    title: "The multifaceted self (unmasking personality 2)",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/mask.jpg",
+    date: "2nd Aug, 2025"
+  },
+  {
+    id: 8,
+    title: "Understanding Ghosting: Why It Happens",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/ghost2.jpg",
+    date: "4th Aug, 2025"
+  },
+  {
+    id: 9,
+    title: "Integrity",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/integrity.jpg",
+    date: "4th Aug, 2025"
   }
 ]
 
