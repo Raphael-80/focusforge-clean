@@ -74,6 +74,14 @@ const dummyArticles = [
     category: "Self Development",
     image: "/integrity.jpg",
     date: "4th Aug, 2025"
+  },
+  {
+    id: 10,
+    title: "The Power of Decision: The Choices We Make",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/decision.jpg",
+    date: "9th Aug, 2025"
   }
 ]
 

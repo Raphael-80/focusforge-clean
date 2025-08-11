@@ -545,6 +545,47 @@ These were men of integrity whose legacies still speak for them today. Their hon
 Conclusion
 
 Integrity is the foundation of a strong character and a thriving society. No matter how common dishonesty becomes, let us choose to be people who stand by the truth. A life built on integrity will always shine brighter than the false glow of corruption. When you hold firmly to your values, you are not only enriching your own life but also inspiring generations to come.`
+  },
+  {
+    id: "10",
+    title: "The Power of Decision: The Choices We Make",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/decision.jpg",
+    content:`
+Every day, we are faced with countless choices — some small, some life-changing. From what to eat for breakfast to which career path to pursue, our decisions shape our present and carve the path toward our future. Yet, despite their importance, making decisions is often challenging. The power of decision lies not just in choosing but in understanding how those choices define us and the lives we live.
+
+Take a moment to think about Clara. She sat on her bed, phone in hand, torn between two invitations — a chance to hang out with friends or attend an important group meeting. Like many of us, she felt stuck, overwhelmed by the weight of making the “right” choice. This is indecision, a place where many get trapped, wasting precious time and energy.
+
+But here’s the truth: indecision is the thief of progress. The longer we hesitate, the more opportunities slip away. The good news? We can reclaim control by learning how to decide effectively.
+
+Why Decisions Matter
+Each decision, big or small, sets off a ripple effect. Choosing to study that extra hour can lead to better grades; deciding to start a new hobby might open doors to unexpected passions or friendships. Conversely, avoiding decisions can lead to missed chances and regret.
+
+Making a decision is an act of courage — a declaration that you are willing to steer your life rather than let circumstances steer you. It empowers you to take responsibility for your journey, shaping your identity with each choice.
+
+How to Harness the Power of Decision
+
+Here are four essential steps to help you make better, clearer decisions:
+
+1. Clarify Your Options  
+   Start by listing all possible choices. Writing them down helps clear your mind and lets you see the full picture, reducing overwhelm.
+
+2. Prioritize Using a Scale of Preference  
+   Not all options hold equal weight. Rank them according to importance, urgency, or impact. This focus lets you concentrate on what truly matters.
+
+3. Evaluate the Consequences  
+   For each option, consider the potential outcomes — positive and negative. Asking yourself, “What if I choose this?” makes the path ahead more visible.
+
+4. Set a Deadline and Decide*Give yourself a reasonable timeframe to decide. Avoid overthinking by sticking to your deadline. Decision-making, like any skill, improves with practice.
+
+The Freedom in Deciding
+
+Making a decision, even a wrong one, is often better than making no decision at all. When you decide, you learn, adapt, and grow. Indecision keeps you frozen; decision sets you free.
+
+Remember, the power of decision is yours. Each choice is a chance to take control of your life, to steer it toward your dreams and values. So next time you’re stuck like Clara, embrace the power of decision. Make your choice, learn from it, and keep moving forward.
+
+Because life isn’t about waiting for the perfect moment — it’s about creating it, one decision at a time.`
   }
 ];
 
