@@ -96,7 +96,7 @@ const dummyArticles = [
     title: "FORGIVENESS",
     author: "Focus Forge",
     category: "Self Awareness",
-    image: "/Jesus.jpg",
+    image: "/forgive.jpg",
     date: "17th Aug, 2025"
   }
 ]

@@ -97,7 +97,7 @@ Confidence isn't born; it's built. It's the foundation of living a full, courage
 
 Unlock Your Potential`
   },
-  
+
   {
     id: 4,
     title: "The Multifaceted Self: On Masking Personality",
@@ -638,7 +638,7 @@ So if you’ve been struggling, don’t give up. God is not counting how many ti
     title: "FORGIVENESS",
     author: "Focus Forge",
     category: "Self Awareness",
-    image: "/Jesus.jpg",
+    image: "/forgive.jpg",
     content: `
 Most times, forgiveness is seen as weakness, especially in our world today. Little do we know that forgiveness is one of the best gifts you can give to anyone.
 
