@@ -259,12 +259,12 @@ So again we ask:
 The one who enters with purpose, serves with courage, and exits with honor.`
   },
   {
-        id: 7,
-        title: "The multifaceted self (unmasking personality 2)",
-        author: "Focus Forge",
-        category: "Self Awareness",
-        image: "/mask.jpg",
-        content: `In our previous article on the multifaceted self, the 16 personalities of Myers Briggs type indicator were listed and we were sure anticipating to unlock the characteristics of each personality type🙂‍↔.
+    id: 7,
+    title: "The multifaceted self (unmasking personality 2)",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/mask.jpg",
+    content: `In our previous article on the multifaceted self, the 16 personalities of Myers Briggs type indicator were listed and we were sure anticipating to unlock the characteristics of each personality type🙂‍↔.
 
 We will be looking at the characteristics of these 16 personalities. Dear gentle reader, study them and know which suits you or even a friend or loved one and learn to make better decisions and handle situations smartly😊.
 
@@ -429,13 +429,13 @@ Weakness: Avoids serious topics or responsibilities.
 
 Going through these personalities we can be able to predict wat ppl can do hence allowing for better understanding and less conflicts.`
   },
-      {
-        id: 8,
-        title: "Understanding Ghosting: Why It Happens",
-        author: "Focus Forge",
-        category: "Relationship",
-        image: "/ghost2.jpg",
-        content: `Ghosting is when someone you’ve been talking to — maybe even getting close to — suddenly cuts off all communication without any explanation. No calls, no messages, no goodbyes. It can leave you confused, hurt, and full of unanswered questions.
+  {
+    id: 8,
+    title: "Understanding Ghosting: Why It Happens",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/ghost2.jpg",
+    content: `Ghosting is when someone you’ve been talking to — maybe even getting close to — suddenly cuts off all communication without any explanation. No calls, no messages, no goodbyes. It can leave you confused, hurt, and full of unanswered questions.
 
 You may start to wonder, “Did I do something wrong?” “Wasn’t everything going well?” But in many cases, ghosting has more to do with the other person’s mindset than anything you did.
 
@@ -500,8 +500,8 @@ Don’t question your self-worth.
 You deserve communication, honesty, and respect.
 Inorder to appear even more valuable learn to ignore act like u didn't know you were ghosted.
  The right people will show up with clarity, not confusion.`
-    },
-    {
+  },
+  {
     id: 9,
     title: "Integrity",
     author: "Focus Forge",
@@ -543,14 +543,14 @@ These were men of integrity whose legacies still speak for them today. Their hon
 Conclusion
 
 Integrity is the foundation of a strong character and a thriving society. No matter how common dishonesty becomes, let us choose to be people who stand by the truth. A life built on integrity will always shine brighter than the false glow of corruption. When you hold firmly to your values, you are not only enriching your own life but also inspiring generations to come.`
-    },
-    {
-      id: 10,
-      title: "The Power of Decision: The Choices We Make",
-      author: "Focus Forge",
-      category: "Self Development",
-      image: "/decision.jpg",
-      content:`
+  },
+  {
+    id: 10,
+    title: "The Power of Decision: The Choices We Make",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/decision.jpg",
+    content: `
 Every day, we are faced with countless choices — some small, some life-changing. From what to eat for breakfast to which career path to pursue, our decisions shape our present and carve the path toward our future. Yet, despite their importance, making decisions is often challenging. The power of decision lies not just in choosing but in understanding how those choices define us and the lives we live.
 
 Take a moment to think about Clara. She sat on her bed, phone in hand, torn between two invitations — a chance to hang out with friends or attend an important group meeting. Like many of us, she felt stuck, overwhelmed by the weight of making the “right” choice. This is indecision, a place where many get trapped, wasting precious time and energy.
@@ -584,7 +584,92 @@ Making a decision, even a wrong one, is often better than making no decision at 
 Remember, the power of decision is yours. Each choice is a chance to take control of your life, to steer it toward your dreams and values. So next time you’re stuck like Clara, embrace the power of decision. Make your choice, learn from it, and keep moving forward.
 
 Because life isn’t about waiting for the perfect moment — it’s about creating it, one decision at a time.`
-    }
+  },
+  {
+    id: 11,
+    title: "How to Get Right With God",
+    author: "Focus Forge",
+    category: "Spiritual Life",
+    image: "/Jesus.jpg",
+    content: `
+There was a time I was battling with a particular sin. I fasted, I prayed, and I thought I had overcome, only to watch myself fall back into the same mess. At some point, I stopped and began to ask myself: “Is it that God didn’t answer my prayers, or is it that there are demons following me?”
+
+The truth was, I had fasted and prayed, but I forgot something important: I can’t handle temptations by my own strength. I thought I could overcome sin by willpower, but I forgot that Jesus Christ is my strength. My own strength kept failing me.
+
+Think of it this way: imagine you are tempted to steal. At first, it begins with a thought—an urge whispering, “Take it, no one will notice.” If you entertain it, soon it grows louder, until you end up doing the very thing you never planned to do. Then comes regret and guilt. Even Apostle Paul described this struggle in Romans 7:15-20: “For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.”
+
+This is the battle every believer faces: the fight between the desire to please God and the desires of the flesh.
+
+But here’s the good news: we don’t have to do it on our own. No matter how hard we try, our strength will fail. The harder we try by ourselves, the easier it becomes to fall. But when we surrender to God, His strength carries us. Serving God doesn’t mean we must be perfect before coming to Him; it means we come as we are, and He perfects us day by day.
+
+The journey of walking with Christ is not easy. It’s narrow, painful at times, and full of challenges. But God never promised that we won’t face struggles. Instead, He promised that He will be with us through them all. His strength will make us whole.
+
+
+---
+
+So, how do you get right with God?
+
+Here are 3 crucial steps:
+
+1. Acceptance – Accept that you’ve sinned. The Bible says “all have sinned and fallen short of the glory of God” (Romans 3:23). This acceptance doesn’t condemn you—it gives you boldness to approach God’s throne of grace for mercy (Hebrews 4:16).
+
+
+2. Repentance – Repentance is more than saying “I’m sorry.” It means turning away from sin and turning toward God. It’s a change of heart that shows in your actions. Repentance says, “Lord, I can’t do this on my own. I surrender to You.”
+
+
+3. Dependence – Depend daily on the Holy Spirit. This is where many of us struggle. We accept Christ but still try to fight temptation in our own strength. But Jesus said in John 15:5, “Apart from me you can do nothing.” Victory over sin comes by leaning on His Spirit, through prayer, studying His Word, and fellowship with other believers.
+
+
+
+
+---
+
+Final Word
+
+Getting right with God is not about being flawless—it’s about being surrendered. It’s about knowing that when you fall, you can rise again because His mercy is new every morning. Like a child running to their loving Father, you can always come boldly to Him, not with fear of rejection, but with assurance of love.
+
+So if you’ve been struggling, don’t give up. God is not counting how many times you’ve failed; He’s waiting for you to rise and walk with Him again. His strength is enough for you.`
+  },
+  {
+    id: 12,
+    title: "FORGIVENESS",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/Jesus.jpg",
+    content: `
+Most times, forgiveness is seen as weakness, especially in our world today. Little do we know that forgiveness is one of the best gifts you can give to anyone.
+
+Someone hurt you? The response depends on you, not on them. Whether deeply pained or not, do not hold grudges. Grudges affect you, not the person you’re angry at.
+
+Unforgiveness is like holding up a red-hot piece of metal in your hand, waiting for the person that wronged you to feel its heat. But you’re the one burning. 
+
+It’s like burning yourself and expecting the other person to feel the pain. That is what unforgiveness does — it punishes you.
+
+Forgiveness is a gift, and it’s not always easy to give. But it brings peace and frees your heart.
+
+Unforgiveness has a way of blocking opportunities and holding blessings back.
+
+I once heard a story of a young man who found it hard to forgive his dad because he blamed him for his mum’s death. But when he chose to forgive, his life turned around for good. 
+
+There are ways that can help you let go of the past; 
+1. Acceptance – Accept that you were hurt, wounded, broken, and let go. Accept that you were betrayed and there’s nothing you can do other than setting yourself free.
+
+2. Take it as a lesson, not a regret – Take that failed relationship, that broken trust, as a lesson. Ask yourself, "What is this teaching me?" not "Why is this happening to me?"
+
+3. Stop grumbling – Don’t let your heart mess you up. Keep moving forward, it’s really not bad to consider yourself free.
+
+4. Give on – Always share love again. Stay away from people that hurt you, and those that always leave you in doubt. Lose the intention and never grind bitterly. You bless and also help yourself to grow.
+
+
+
+In conclusion, forgiveness can be really hard—especially when you feel deeply hurt or betrayed. But the truth is, you didn’t lose anything by forgiving. In fact, you gained peace.
+
+When you choose to forgive, you’re not excusing the pain—they caused it, yes—but you are choosing your peace, your growth, and your healing over staying stuck in the past.
+
+Forgiveness doesn’t mean forgetting, it simply means letting go of the heavy weight so you can move forward. Understanding the reason behind people’s actions doesn’t always make it right—but it gives you clarity and helps you heal.
+
+Don’t keep throwing stones on a road that leads nowhere. Let go, and let better blessings come in.`
+  }
 ];
 
 const ArticlesPage = () => {
