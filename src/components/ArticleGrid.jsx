@@ -98,6 +98,30 @@ const dummyArticles = [
     category: "Self Awareness",
     image: "/forgive.jpg",
     date: "17th Aug, 2025"
+  },
+  {
+    id: 13,
+    title: "The Smartness in Acting Dumb",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/politics.jpg",
+    date: "23rd Aug, 2025"
+  },
+  {
+    id: 14,
+    title: "Mental Health and Its Importance: Why a Healthy Mind is Your Greatest Asset",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/mental-2.jpg",
+    date: "23rd Aug, 2025"
+  },
+  {
+    id: 15,
+    title: "Signs of Depression You Shouldn’t Ignore",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/depressed-2.jpg",
+    date: "23rd Aug, 2025"
   }
 ]
 

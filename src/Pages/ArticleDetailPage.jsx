@@ -679,7 +679,192 @@ When you choose to forgive, you’re not excusing the pain—they caused it, yes
 Forgiveness doesn’t mean forgetting, it simply means letting go of the heavy weight so you can move forward. Understanding the reason behind people’s actions doesn’t always make it right—but it gives you clarity and helps you heal.
 
 Don’t keep throwing stones on a road that leads nowhere. Let go, and let better blessings come in.`
-    }
+    },
+    {
+    id: "13",
+    title: "The Smartness in Acting Dumb",
+    author: "Focus Forge",
+    category: "Self Awareness",
+    image: "/politics.jpg",
+    content: `
+Most people see “acting dumb” as a weakness, but in reality, it can be one of the smartest strategies in life. While being openly smart often attracts envy, competition, and unnecessary pressure, acting less knowledgeable can give you surprising advantages.
+Explore the hidden power of acting dumb. Sometimes the smartest move is to stay underestimated and let your results speak.
+
+Why Acting Dumb Can Be a Smart Move
+
+When you openly display how smart you are, people may become threatened or insecure. They might begin to see you as competition or even distance themselves from you. On the other hand, acting dumb helps you:
+
+Stay underestimated – People are less likely to see you as a threat, which allows you to observe quietly.
+
+Gather information – When people assume you don’t know much, they often reveal more than they should.
+
+Avoid unnecessary battles – By not always showing how capable you are, you dodge unnecessary criticism and rivalry.
+
+
+The Power of Underestimation
+
+One of the smartest benefits of acting dumb is that others will never expect your true level of intelligence. This makes it easier for you to:
+
+Execute your plans quietly.
+
+Outperform people when it truly matters.
+
+Protect your strategies without anyone interfering.
+
+
+Final Thought
+
+Acting dumb doesn’t mean you are actually dumb—it simply means you are wise enough to know when to hide your intelligence. Sometimes, silence and humility win more than loud displays of knowledge. In a world where everyone is trying to prove how smart they are, the real genius may just be the one who plays dumb.`
+  },
+  {
+    id: "14",
+    title: "Mental Health and It's Importance: Why a Healthy Mind is Your Greatest Asset",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/mental-2.jpg",
+    content: `
+Discover why mental health is important for productivity, relationships, and overall well-being. Learn simple ways to care for your mind and achieve inner peace.
+
+
+
+
+Introduction
+
+In today’s fast-paced world, people often chase success, wealth, and recognition, forgetting one of life’s greatest assets — a healthy mind. Mental health is more than the absence of illness; it is the foundation of peace, creativity, productivity, and strong relationships. Without it, everything else in life begins to crumble.
+
+
+
+Why Mental Health Matters
+
+Good mental health shapes how we think, feel, and act. It helps us manage stress, build meaningful connections, and make clear decisions. When our mind is healthy, we are more focused, confident, and resilient.
+
+On the other hand, neglecting mental health leads to stress, anxiety, poor performance, and strained relationships. Just as physical health requires care, our minds also need nurturing.
+
+
+
+The Hidden Cost of Ignoring Mental Health
+
+The effects of poor mental health often start small: sleepless nights, irritability, lack of focus. But over time, these grow into bigger challenges such as depression, broken bonds, and burnout.
+
+Think about how many relationships could be saved if people simply took care of their mental health. Communication would be better. Conflicts would reduce. Families and friendships would be stronger.
+
+Because here’s the truth: a peaceful mind creates peaceful bonds.
+
+
+
+Simple Ways to Care for Your Mental Health
+
+Taking care of your mental health doesn’t have to be complicated or expensive. Small, consistent steps can make a huge difference:
+
+Rest well: Quality sleep restores your mind.
+
+Stay active: Exercise boosts both mood and focus.
+
+Talk it out: Share your feelings with trusted people or a professional.
+
+Disconnect: Limit toxic environments, including social media.
+
+Reflect daily: Journaling, meditation, or prayer helps bring clarity and peace.
+
+
+
+
+
+Conclusion
+
+Your mental health is your anchor. It keeps you steady when life gets overwhelming and gives you strength to grow when opportunities arise. Without it, success feels empty. But with it, you can thrive, build stronger relationships, and live with peace.
+
+So nurture your mind. Guard it. Care for it. Because when your mental health is strong, everything else in life flourishes.
+
+Peace is impossible without inner peace. And inner peace begins with mental health.`
+  },
+  {
+    id: "15",
+    title: "Signs of Depression You Shouldn't Ignore",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/depressed-2.jpg",
+    content: `
+Depression is often called the “silent illness” because it doesn’t always look the same for everyone. Some people imagine depression as constant sadness or tears — but the truth is, it can show up in subtle ways you might not recognize at first. Ignoring these signs not only worsens mental health but can also affect relationships, work, and physical well-being.
+
+If you’ve been asking yourself “Am I just tired, or could this be depression?” — here are key signs of depression you should never ignore.
+
+
+
+1. Persistent Sadness or Emptiness
+
+Everyone feels down sometimes, but if sadness lingers for two weeks or more and doesn’t seem to lift, it may be more than just a bad mood. Depression often feels like a heavy cloud that refuses to go away, leaving you drained and hopeless.
+
+
+2. Loss of Interest in Things You Once Enjoyed
+
+Do you find yourself skipping hobbies, social gatherings, or activities you once loved? This loss of interest or pleasure (called anhedonia) is a strong warning sign of depression. Life feels “colorless,” and nothing excites you the way it used to.
+
+
+
+3. Changes in Sleep Patterns
+
+Depression can affect sleep in two extremes:
+
+Insomnia – struggling to fall or stay asleep.
+
+Hypersomnia – sleeping excessively but still feeling tired.
+
+
+If your sleep cycle has changed drastically without another clear reason, depression could be the hidden cause.
+
+
+
+4. Sudden Changes in Appetite or Weight
+
+Some people lose their appetite, while others eat more than usual as a form of comfort. Significant weight gain or loss without conscious effort can point to underlying emotional struggles.
+
+
+
+5. Difficulty Concentrating
+
+Do you find it hard to focus, make decisions, or remember details? Depression often clouds the mind, making everyday tasks feel overwhelming. This mental fog is more than simple forgetfulness — it’s a symptom you shouldn’t ignore.
+
+
+
+6. Unexplained Aches and Pains
+
+Depression doesn’t just affect the mind; it affects the body too. Frequent headaches, stomach issues, or muscle pain that don’t respond to treatment can be physical manifestations of depression.
+
+
+
+7. Withdrawal from Friends and Family
+
+If you notice yourself avoiding calls, skipping meetups, or pulling away from loved ones, it could be more than just needing “alone time.” Social withdrawal is a common sign of depression and often deepens feelings of isolation.
+
+
+
+8. Thoughts of Self-Harm or Suicide
+
+This is the most serious warning sign and should never be ignored. If you or someone you know is having thoughts of self-harm, it’s important to seek immediate help from a trusted professional or call an emergency helpline.
+
+
+
+Why You Shouldn’t Ignore These Signs
+
+Depression is treatable — but only if recognized. Ignoring it can lead to worsening mental health, strained relationships, and even serious physical illnesses. Paying attention to these signs is the first step to healing.
+
+
+
+What to Do Next
+
+If these symptoms sound familiar, remember: seeking help is not a weakness, but a brave step toward recovery.
+
+Reach out to a trusted friend or family member.
+
+Consult a mental health professional for diagnosis and treatment.
+
+Explore healthy coping strategies like therapy, mindfulness, and physical activity.
+
+
+
+✨ Final Thought: Depression is not just “feeling sad” — it’s a condition that affects the mind, body, and soul. By recognizing these signs early, you can take steps toward healing and reclaiming your happiness.`
+  }
 ];
 
 const ArticleDetailPage = () => {
